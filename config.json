@@ -1,0 +1,15 @@
+{
+    "params" :{
+        "local_server" : "True",
+        "local_uri" : "mysql+pymysql://root:@localhost/cleanblog",
+        "prod_uri" : "mysql+pymysql://root:@localhost/cleanblog",
+        "blog_name" : "Clean Blog",
+        "gmail_user" : "mamta17official@gmail.com,",
+        "password" : "8310728642#m",
+        "admin_user" : "mamata",
+        "admin_password" : "8310728642#m",
+        "no_of_posts" : 4
+ 
+    }
+
+}
